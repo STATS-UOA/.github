@@ -3,10 +3,9 @@
 
 ### We are the Department of Statistics at the University of Auckland 🇳🇿
 
+#### [📰 Find out what we've been up to 📰](https://stats-uoa.github.io/spotlight/) and don't forget to follow us on the platform(s) of your choice!
 
-Follow us on the platform(s) of your choice!
-
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/statsauckuni.svg?style=social&label=Follow) @statsauckuni](https://twitter.com/statsauckuni)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/statsauckuni.svg?style=social&label=) @statsauckuni](https://twitter.com/statsauckuni)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width=2%> [@statsakl](https://www.instagram.com/statsakl/?hl=en)
 
