@@ -5,7 +5,7 @@
 
 #### [📰 Find out what we've been up to 📰](https://stats-uoa.github.io/spotlight/) and don't forget to follow us on the platform(s) of your choice!
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/statsauckuni.svg?style=social&label=) @statsauckuni](https://twitter.com/statsauckuni)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/StatsUoA.svg?style=social&label=) @StatsUoA](https://twitter.com/StatsUoA)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width=2%> [@statsakl](https://www.instagram.com/statsakl/?hl=en)
 
