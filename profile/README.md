@@ -7,6 +7,6 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/StatsUoA.svg?style=social&label=) @StatsUoA](https://twitter.com/StatsUoA)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width=2%> [@statsakl](https://www.instagram.com/statsakl/?hl=en)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width=2%> [@statsuoa](https://www.instagram.com/statsuoa/?hl=en)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/480px-2021_Facebook_icon.svg.png" width=2%> [@statsak](https://www.facebook.com/statsak/)
